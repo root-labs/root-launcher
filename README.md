@@ -3,7 +3,7 @@
   
 
 Welcome to the Root-Launcher! A quick start for your JavaScript applications.
-
+Created by [André de Albuquerque](https://www.linkedin.com/in/itstheandre/)
   
 
 ## Usage
