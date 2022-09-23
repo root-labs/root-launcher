@@ -16,7 +16,7 @@ Welcome to the Root-Launcher! A quick start for your JavaScript applications.
 
 ```sh
 
-npx rootlauncher@latest # <your-app-name> + flag(s)
+npx root-launcher@latest # <your-app-name> + flag(s)
 
 ```
 
@@ -32,11 +32,11 @@ If you want to see the flags and options you can always run one of these command
 
 ```sh
 
-npx rootlauncher@latest help
+npx root-launcher@latest help
 
 # or
 
-npx rootlauncher@latest --help
+npx root-launcher@latest --help
 
 ```
 
@@ -77,7 +77,7 @@ npx rootlauncher@latest --help
 
 ```sh
 
-npx rootlauncher@latest new-app
+npx root-launcher@latest new-app
 
 ```
 
@@ -93,7 +93,7 @@ npx rootlauncher@latest new-app
 
 ```sh
 
-npx rootlauncher new-app --auth
+npx root-launcher new-app --auth
 
 ```
 
@@ -109,7 +109,7 @@ npx rootlauncher new-app --auth
 
 ```sh
 
-npx rootlauncher@latest new-app --json
+npx root-launcher@latest new-app --json
 
 ```
 
@@ -121,7 +121,7 @@ npx rootlauncher@latest new-app --json
 
 ```sh
 
-npx rootlauncher@latest new-app --fs
+npx root-launcher@latest new-app --fs
 
 ```
 
